@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Смартфон Vivo V25 8/256Gb Қора",
+    "id": 0,
+    "images": [
+      {
+        "id": 0,
+        "src": "https://backend.texnomart.uz/images/gallery/product/105120/36058/detail.jpg"
+      },
+      {
+        "id": 1,
+        "src": "https://backend.texnomart.uz/images/gallery/product/105120/36056/detail.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://backend.texnomart.uz/images/gallery/product/105120/36059/detail.jpg"
+      }
+    ],
+    "author": "Vivo",
+    "OS": "Android 12",
+    "diogonal": "6,44",
+    "ekran": "AMODEL",
+    "photocam": "64 PM, 8PM, 2MP",
+    "price": "5 872 000 сўм"
+  },
+  {
+    "name": "Смартфон Honor X9 6/128Gb Қора",
+    "id": 1,
+    "images": [
+      {
+        "id": 1,
+        "src": "https://backend.texnomart.uz/images/gallery/product/102699/33082/detail.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://backend.texnomart.uz/images/gallery/product/102700/33080/preview.jpg"
+      },
+      {
+        "id": 3,
+        "src": "https://backend.texnomart.uz/images/gallery/product/102699/33082/cart.jpg"
+      }
+    ],
+    "author": "Honor",
+    "OS": "Android 11",
+    "diogonal": "6,81",
+    "ekran": "IPS",
+    "photocam": "48 МП, 2 МП, 2 МП",
+    "price": "3 821 000 сўм"
+  },
+  {
+    "name": "Смартфон Xiaomi Redmi Note 11S 6/128Gb Мовий",
+    "id": 2,
+    "images": [
+      {
+        "id": 0,
+        "src": "https://backend.texnomart.uz/images/gallery/product/100858/34683/detail.jpg"
+      },
+      {
+        "id": 1,
+        "src": "https://backend.texnomart.uz/images/gallery/product/100858/34683/detail.jpg"
+      },
+      {
+        "id": 2,
+        "src": "https://backend.texnomart.uz/images/gallery/product/100858/34678/detail.jpg"
+      }
+    ],
+    "author": "Xiaomi",
+    "OS": "Android 11",
+    "diogonal": "6,43",
+    "ekran": "AMOLED",
+    "photocam": "108 МП, 8 МП, 2 МП, 2 МП",
+    "price": "3 502 000 сўм"
+  },
+  {
+    "name": "Apple MacBook Air 13 M1 MGN63RU/A ноутбуки",
+    "id": 3,
+    "images": [
+      "https://backend.texnomart.uz/images/gallery/product/93517/27520/detail.jpg"
+    ],
+    "author": "Apple",
+    "diogonal": "13,3",
+    "ekran": "IPS",
+    "ram": "8 ГБ",
+    "pros": "Apple M1",
+    "price": "15 028 000 сўм"
+  }
+]
