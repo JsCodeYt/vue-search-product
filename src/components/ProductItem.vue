@@ -1,5 +1,5 @@
 <template>
-    <div class="product__item" v-for="product in products">
+    <div class="product__item" v-for="product in products" v-on:click="handleClick(product.id)">
         <img :src="product.images[slideNumber].src || product.images[0]" alt="">
         <span class="product__author">{{ product.author }}</span>
         <div class="product__item-info">
@@ -26,6 +26,12 @@ export default {
             required: true,
         }
     },
+    methods: {
+        handleClick(productId) {
+            console.log(productId)
+            this.$emit("productId", productId)
+        }
+    }
 }
 </script>
 <style lang="scss">
